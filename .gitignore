@@ -1,0 +1,12 @@
+# Compilation output
+lex.yy.c
+lexer.exe
+tmp_input.txt
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local user configurations
+.vscode/
+.idea/
